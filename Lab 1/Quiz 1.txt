@@ -1,0 +1,49 @@
+Question 1.
+Which of the choices are correctly implemented? (Select all that apply)
+ANSWER(S): 
+	if (x < 5) a++;
+	
+	if (x < 5)
+	{
+		a++;
+	}
+
+Question 2.
+How many times will the following loop run?
+
+int i = 3;
+while (i < 10)
+{
+	i++;
+}
+
+ANSWER: 7
+
+QUESTION 3.
+What is the final value of 'b'?
+
+int a, b;
+a = 1024;
+for (b = 0; a > 1; b++)
+{
+a /= 2;
+}
+
+ANSWER(S): 
+	log_2(1024)
+	10
+
+QUESTION 4.
+When do the output pins on the 74LS373 D-Latch update?
+
+ANSWER: On a Clock value of HIGH
+
+QUESTION 5.
+Match the pin number to its corresponding port designations
+
+ANSWER(S):
+PORTB9 : PIN 18
+PORTA2 : PIN 9
+PORTB10: PIN 21
+PORTB5 : PIN 14
+PORTA0 : PIN 2
